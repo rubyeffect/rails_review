@@ -46,6 +46,9 @@ In the current version, 17 [Rails Style Guide](https://github.com/bbatsov/rails-
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+## Authored by
+Sanjay Vedula(sanjay.vedula@gmail.com)
+
 ## About RubyEffect
 
 ![RubyEffect](http://blog.rubyeffect.com/wp-content/uploads/2015/05/cropped-re_original_logo.png)
